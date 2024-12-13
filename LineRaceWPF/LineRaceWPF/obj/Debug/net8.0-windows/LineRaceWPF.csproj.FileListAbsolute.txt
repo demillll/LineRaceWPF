@@ -1,0 +1,12 @@
+D:\ycheba\4kyrs7sem\PSP\LineRaceWPF\LineRaceWPF\LineRaceWPF\obj\Debug\net8.0-windows\LineRaceWPF.csproj.AssemblyReference.cache
+D:\ycheba\4kyrs7sem\PSP\LineRaceWPF\LineRaceWPF\LineRaceWPF\obj\Debug\net8.0-windows\LineRaceWPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\ycheba\4kyrs7sem\PSP\LineRaceWPF\LineRaceWPF\LineRaceWPF\obj\Debug\net8.0-windows\LineRaceWPF.AssemblyInfoInputs.cache
+D:\ycheba\4kyrs7sem\PSP\LineRaceWPF\LineRaceWPF\LineRaceWPF\obj\Debug\net8.0-windows\LineRaceWPF.AssemblyInfo.cs
+D:\ycheba\4kyrs7sem\PSP\LineRaceWPF\LineRaceWPF\LineRaceWPF\obj\Debug\net8.0-windows\LineRaceWPF.csproj.CoreCompileInputs.cache
+D:\ycheba\4kyrs7sem\PSP\LineRaceWPF\LineRaceWPF\LineRaceWPF\bin\Debug\net8.0-windows\LineRaceWPF.deps.json
+D:\ycheba\4kyrs7sem\PSP\LineRaceWPF\LineRaceWPF\LineRaceWPF\bin\Debug\net8.0-windows\LineRaceWPF.dll
+D:\ycheba\4kyrs7sem\PSP\LineRaceWPF\LineRaceWPF\LineRaceWPF\bin\Debug\net8.0-windows\LineRaceWPF.pdb
+D:\ycheba\4kyrs7sem\PSP\LineRaceWPF\LineRaceWPF\LineRaceWPF\obj\Debug\net8.0-windows\LineRaceWPF.dll
+D:\ycheba\4kyrs7sem\PSP\LineRaceWPF\LineRaceWPF\LineRaceWPF\obj\Debug\net8.0-windows\refint\LineRaceWPF.dll
+D:\ycheba\4kyrs7sem\PSP\LineRaceWPF\LineRaceWPF\LineRaceWPF\obj\Debug\net8.0-windows\LineRaceWPF.pdb
+D:\ycheba\4kyrs7sem\PSP\LineRaceWPF\LineRaceWPF\LineRaceWPF\obj\Debug\net8.0-windows\ref\LineRaceWPF.dll
